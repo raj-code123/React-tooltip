@@ -31,3 +31,12 @@ Install my-project with Zipfile
   npm start
 ```
     
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+Live link : https://reactoolstips.netlify.app
