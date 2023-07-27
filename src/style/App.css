@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    margin-top: 20%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .App > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 150px;
+  }
